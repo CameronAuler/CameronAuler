@@ -7,6 +7,7 @@ Hello, welcome to my Github. I develop cybersecurity tools and security oriented
 | [RTTK (*Red Team Toolkit*)](https://github.com/CameronAuler/RTTK/wiki) | The RTTK project is an all in one red team tool that automates ethical hacking tasks. |
 | [ENSM (*ENhanced Network Security Monitoring*)](https://github.com/CameronAuler/ENSM/wiki) | The ENSM project is a deep learning AI enhanced SIEM. |
 | [PyPasswd](https://github.com/CameronAuler/PyPasswd/wiki) | Encrypted Password Manager. |
+| [EHTK (*Ethical Hacking Toolkit*)](https://github.com/CameronAuler/EHTK)
 
 
 
