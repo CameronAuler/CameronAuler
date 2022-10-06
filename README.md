@@ -1,11 +1,11 @@
-### Hello, my name is Cam and I develop secure software for cybersecurity.
+Hello, my name is Cam and I develop secure software for cybersecurity.
 
 Current Projects . . .
 | Project | Description |
 | ------- | ----------- |
-| [CSDEV.py](https://github.com/CameronAuler/CSDEV.py) |  |
-| [RTTK (*Red Team Toolkit*)](https://github.com/CameronAuler/RTTK/wiki) |  |
-| [ENSM (*ENhanced Network Security Monitoring*)](https://github.com/CameronAuler/ENSM/wiki) |  |
+| [CSDEV.py](https://github.com/CameronAuler/CSDEV.py) | CSDEV.py is a repository dedicated to teaching advanced Python programming specifically for software development and cybersecurity. |
+| [RTTK (*Red Team Toolkit*)](https://github.com/CameronAuler/RTTK/wiki) | The RTTK project is an all in one red team tool that automates ethical hacking tasks. |
+| [ENSM (*ENhanced Network Security Monitoring*)](https://github.com/CameronAuler/ENSM/wiki) | The ENSM project is a deep learning AI enhanced SIEM. |
 
 
 
