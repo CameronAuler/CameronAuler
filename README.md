@@ -6,6 +6,7 @@ Hello, welcome to my Github. I develop cybersecurity tools and security oriented
 | [CSDEV.py](https://github.com/CameronAuler/CSDEV.py) | CSDEV.py is a repository dedicated to teaching advanced Python programming specifically for software development and cybersecurity. |
 | [RTTK (*Red Team Toolkit*)](https://github.com/CameronAuler/RTTK/wiki) | The RTTK project is an all in one red team tool that automates ethical hacking tasks. |
 | [ENSM (*ENhanced Network Security Monitoring*)](https://github.com/CameronAuler/ENSM/wiki) | The ENSM project is a deep learning AI enhanced SIEM. |
+| [PyPasswd](https://github.com/CameronAuler/PyPasswd/wiki) | Encrypted Password Manager. |
 
 
 
