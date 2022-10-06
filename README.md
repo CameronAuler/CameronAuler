@@ -1,4 +1,4 @@
-Hello, welcome to my Github. I develop cybersecurity tools and security oriented software. All of the projects listed below are active and I am constantly working on them.
+Hello, welcome to my Github. I develop cybersecurity tools and security oriented software. All of the projects listed below are active and I am constantly working on them. While all of my projects currently utilize Python, I plan on expanding my pool of languages that I use on a regular basis in the future.
 
 ## Current Projects
 | Project | Description |
