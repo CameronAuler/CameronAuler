@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, welcome to my Github page. My name is Cam
+
+Current Projects . . .
+- https://github.com/CameronAuler/CSDEV.py
+- https://github.com/CameronAuler/RTTK/wiki
+- https://github.com/CameronAuler/ENSM/wiki
+
+
 
 <!--
 **CameronAuler/CameronAuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
