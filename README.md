@@ -1,7 +1,7 @@
-### Hello, welcome to my Github page. My name is Cam
+### Hello, my name is Cam and I develop secure software for cybersecurity.
 
 Current Projects . . .
-- https://github.com/CameronAuler/CSDEV.py
+- [CSDEV.py](https://github.com/CameronAuler/CSDEV.py)
 - https://github.com/CameronAuler/RTTK/wiki
 - https://github.com/CameronAuler/ENSM/wiki
 
