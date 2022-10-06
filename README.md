@@ -1,6 +1,6 @@
 Hello, my name is Cam and I develop secure software for cybersecurity.
 
-Current Projects . . .
+### Current Projects
 | Project | Description |
 | ------- | ----------- |
 | [CSDEV.py](https://github.com/CameronAuler/CSDEV.py) | CSDEV.py is a repository dedicated to teaching advanced Python programming specifically for software development and cybersecurity. |
