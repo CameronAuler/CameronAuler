@@ -1,4 +1,4 @@
-Hello, my name is Cam and I develop secure software for cybersecurity.
+Hello, welcome to my Github. I develop cybersecurity tools and security oriented software. All of the projects listed below are active and I am constantly working on them.
 
 ### Current Projects
 | Project | Description |
