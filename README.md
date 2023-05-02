@@ -1,4 +1,4 @@
-Hello, welcome to my Github. I develop cybersecurity tools and security oriented software. All of the projects listed below are active and I am constantly working on them. While all of my projects currently utilize Python, I plan on expanding my pool of languages.
+Hello, welcome to my Github. I am a front-end developer and UI/EX designer with a background in cybersecurity and security oriented software. All of the projects listed below are active and I am constantly working on them.
 
 ## Current Projects
 | Project | Description | Status |
