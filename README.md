@@ -6,7 +6,6 @@ Hello, welcome to my Github. I am a front-end developer and UI/EX designer with 
 | [RTTK (*Red Team Toolkit*)](https://github.com/CameronAuler/RTTK/wiki) | The RTTK project is an all in one red team tool that automates ethical hacking tasks. | Mid-stage Development |
 | [ENSM (*ENhanced Network Security Monitoring*)](https://github.com/CameronAuler/ENSM/wiki) | The ENSM project is a deep learning AI enhanced SIEM. | Mid-stage Development |
 | [EHTK (*Ethical Hacking Toolkit*)](https://github.com/CameronAuler/EHTK) | EHTK is a repository designed to teach hacking and general cybersecurity. | Started |
-| 
 
 
 
