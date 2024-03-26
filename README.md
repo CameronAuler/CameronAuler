@@ -1,4 +1,4 @@
-Hello, welcome to my Github. I am a front-end developer and UI/EX designer with a background in cybersecurity and security oriented software. All of the projects listed below are active and I am constantly working on them.
+Hello, welcome to my Github. I am a front-end developer and UI/UX designer with a background in cybersecurity and security oriented software. All of the projects listed below are active and I am constantly working on them.
 
 ## Current Projects
 | Project | Description | Status |
