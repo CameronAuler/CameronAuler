@@ -1,5 +1,6 @@
-![CA logo](https://github.com/user-attachments/assets/5a3020a1-68d2-4b61-80cf-1739e4d851b2) # Cameron Auler
-
+![CA logo](https://github.com/user-attachments/assets/5a3020a1-68d2-4b61-80cf-1739e4d851b2)
+# Cameron Auler
+Software engineer and founder of Llamaduck Design, specializing in secure code and AI-enhanced applications & systems.
 
 # 📚 Projects
 | Project | Description | Status |
