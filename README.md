@@ -2,7 +2,7 @@
 # Cameron Auler
 Software engineer and founder of Llamaduck Design, specializing in secure code and AI-enhanced applications & systems.
 
-##Llamaduck Design
+# Llamaduck Design
 - [llamaduckdesign.com](https://llamaduckdesign.com)
 
 # 📚 Projects
