@@ -1,39 +1,35 @@
-![CA logo](https://github.com/user-attachments/assets/5a3020a1-68d2-4b61-80cf-1739e4d851b2)
-# Cameron Auler
-Software engineer and founder of Llamaduck Design, specializing in secure code and AI-enhanced applications & systems.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a3020a1-68d2-4b61-80cf-1739e4d851b2" alt="CA logo">
+</p>
 
-# Llamaduck Design
-- [llamaduckdesign.com](https://llamaduckdesign.com)
+<h1 align="center">Cameron Auler</h1>
 
-# 📚 Projects
-| Project | Description | Status |
-| ------- | ----------- | ------ |
-| [Aim](https://www.aimfitness.app/) | AI fitness, custom workouts based on your environment, fitness goals, and life. | Early-stage Development |
-| [Bastion Security](https://www.bastionsecurity.systems/) | Cybersecurity systems and tools powered by AI. | Started |
-| [Verve](https://vervelanguage.app/) | Language learning and acquisition using AI. | Mid-stage Development |
-| [TheURLToolkit](https://www.theurltoolkit.com/) | URL resource cache, an online trading post for links and helpful online resources. | Started |
+<p align="center">
+  AI software engineering team lead at <strong>Staples</strong> · Co-founder of <strong>Llamaduck</strong><br>
+  <a href="https://cameronauler.com">cameronauler.com</a>
+</p>
 
+## Llamaduck
 
+Making AI accessible for everyone: teaching AI skills, building AI apps and tools, creating AI products.
 
-## 🌍 Contact
-- **Website**: [cameronauler.com](https://cameronauler.com/)
-- **X**: [CameronAuler](https://x.com/CameronAuler)
+- **GitHub** [@Llamaduck-ai](https://github.com/Llamaduck-ai)
+- **Sites** [llamaduck.ai](https://llamaduck.ai) · [learn.llamaduck.ai](https://learn.llamaduck.ai) (soon) · [tools.llamaduck.ai](https://tools.llamaduck.ai) · [frameworks.llamaduck.ai](https://frameworks.llamaduck.ai) (soon)
+- **Frameworks** Ducky, our Python framework for building AI agents · Llama, our Next.js component library for AI interfaces
 
+## Projects
 
+| Project | What it is | Status |
+| :--- | :--- | :--- |
+| **[Aim](https://aimfitness.app)** | AI fitness | ![Mid dev](https://img.shields.io/badge/Mid%20dev-0b3183?style=flat) |
+| **[Verve](https://vervelanguage.app)** | AI language learning | ![Mid dev](https://img.shields.io/badge/Mid%20dev-0b3183?style=flat) |
+| **[Bastion Security](https://bastionsecurity.systems)** | AI cybersecurity | ![In dev](https://img.shields.io/badge/In%20dev-5b6474?style=flat) |
+| **[TheURLToolkit](https://www.theurltoolkit.com)** | Save, organize, and share useful links | ![In dev](https://img.shields.io/badge/In%20dev-5b6474?style=flat) |
 
+---
 
-
-<!--
-**CameronAuler/CameronAuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://cameronauler.com">cameronauler.com</a> ·
+  <a href="https://x.com/CameronAuler">@CameronAuler</a> ·
+  <a href="https://github.com/Llamaduck-ai">Llamaduck</a>
+</p>
